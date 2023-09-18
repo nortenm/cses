@@ -3,5 +3,7 @@ using namespace std;
 #define ll long long
 int main()
 {
-	cout<<"hey";
+	int n;
+	cin>>n;
+	
 }
